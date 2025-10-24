@@ -1,15 +1,134 @@
-# Site vitrine — Rédaction web SEO B2B (FR)
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8 name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<head>
+  <meta charset="UTF-8">
+  <title>We are Digital marketing expert of the French market</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
 
-## Modifier
-- `index.html` : contenu et coordonnées
-- `styles.css` : couleurs, espacements
-- `script.js` : interactivité légère
 
-## Lancer en local
-- VS Code + Live Server, ou
-- `python3 -m http.server` → http://localhost:8000
+<body>
+<header>
+<h1>Hi! Welcome to my portfolio</h1>
 
-## Déployer (lien public)
-- Vercel : importer le repo/folder, pas de build requis
-- Netlify : drag‑and‑drop, ou connect repo
-- GitHub Pages : activer Pages (root)
+
+<p>As a business-oriented digital marketing expert, I offer <u><strong>SEO writing service</strong></u> on the French market.</p>
+<p>This webpage was entirely designed and developed by myself. Its purpose is to enhance my web development skills and to demonstrate <i>the scope of my expertise</i> in this field.</p>
+<figure>
+<img src="https://www.datocms-assets.com/54769/1676558628-1671389642294.jpg?auto=format&dpr=0.51&monochrome=CCCCCC&w=599" alt="portrait de manon cauffiez freelance seo rédacteur et expert marketing digital" width="100px" height="100px">
+<figcaption>This is me, Manon Cauffiez</figcaption>
+<p> <button><a href="mailto:manon.cauffiez@gmail.com">Reach me by email</a></button></p>
+</figure>
+
+
+<nav>
+<ul>
+  <li><a href="#about">About me</a></li>
+  <li><a href="#services">My Services</a></li>
+  <li><a href="#clients">Main clients</a></li>
+  <li><a href="#contact">How to Contact me?</a></li>
+</ul>
+</nav>
+  </header>
+
+
+<main>
+    <section id="about">
+      <h2>About me</h2>
+<p>I am  a digital marketing specialist specialized in SEO, focusing on the French market.</p>
+<p>In the last 5 years, I have been working for +11 international clients in the tech industry.</p>
+I also own a store selling sustainable clothes printed on-demand: <a href="https://bonusreparationtextile.fr" alt="site d'information sur la mode éco-responsable">bonus reparation textile.fr</a></p>
+<p>Academically, I hold degrees in International Economic Law (Assas Paris II University), International marketing (Edhec Business School) and finance (Kozminski University).</p>
+<p>After gaining professional experience in the economic department of 1 embassy (Equatorial Guinea) and 2 French chambers of commerce (Colombia, Venezuela), I decided to pursue my own path as an independent professional.</p>
+    </section>
+
+
+<section id="services">
+      <h2>Which services do I povide?</h2>
+<h3>Website audit through Semrush</h3>
+<p>I use Semrush to perform a full audit of your website, identifying SEO errors, keyword gaps, and opportunities to boost your visibility and ranking.</p>
+
+
+<h3>Semantic analysis of your website</h3>
+<p>I analyze your website’s semantic structure to ensure every page targets the right keywords, aligns with user intent, and improves topical authority.</p>
+
+
+<h3>Link building strategy and more</h3>
+<p>I create a tailored link-building plan focused on acquiring high-quality backlinks from relevant, trustworthy domains to strengthen your website’s authority.</p>
+
+
+<h3>Content creation & optimization</h3>
+<p>I write and optimize SEO-driven content designed to attract, engage, and convert your audience — always aligned with your brand voice and goals.</p>
+
+
+<h3>Technical Audit of your website</h3>
+<p>I evaluate your site’s technical health — from loading speed to mobile usability and indexation — to ensure it meets Google’s latest performance standards.</p>
+
+
+  <section>
+
+
+<section id="clients"><h2>Main clients</h2>
+<h3>Wise Business</h3>
+<img src="https://wise.com/imaginary-v2/images/9632e3c58ae5a1b6ac995703f985eae8-business_desktop_mobile_card.png" source="https//wise.com" alt="plateforme wise business transfert d'argent pour professionnels" width="100px" height="100px">
+<ul>
+<li><a href="https://wise.com/fr/blog/compte-offshore">Compte offshore: ce qu'il faut savoir</a></li>
+<li><a href="https://wise.com/fr/blog/quelle-solution-de-paiement-en-ligne-choisir">Solutions de paiement en ligne à choisir</a></li>
+<li><a href="https://wise.com/fr/blog/stripe-ou-mollie">Stripe vs Mollie : comment faire le bon choix ?</a></li>
+</ul>
+<p>You can also access <a href="https://wise.com/fr/blog/category/business/">the whole of the content I wrote for Wise Business (btob)</a>.</p>
+
+
+<h3>Shine (Société générale)</h3>
+<img src="https://www.budgetbanque.fr/data/wp-content/uploads/2020/07/societe-generale-shine.png" source="https://shine.fr" alt="logo shine société générale" width="100px" height="100px">
+<ul>
+<li><a href="https://www.shine.fr/blog/micro-ei-eurl-sasu-choix/">Micro-entreprise, EI, EURL ou SASU : comment choisir ?</a></li>
+<li><a href="https://www.shine.fr/blog/sci-famille-difference-sci/">Quelles différences entre une SCI et une SCI familiale</a></li>
+<li><a href="https://www.shine.fr/blog/capital-risque-guide/">Capital risque : définition, types et objectifs</a></li>
+</ul>
+<p>You can also access <a href="https://www.shine.fr/blog/auteur/manon-ca/">the whole of the content I wrote for Shine</a>.</p>
+<h3>Other clients</h3>
+<p>I also had the opportunity to work for many other clients amongst which:</p>
+<ul>
+<li>MSH International</li>
+<li>Saveurs CBD</li>
+<li>Réassurez-moi</li>
+<li>Propulse by CA</li>
+</ul>
+<p></p>
+</section>
+  </main>
+
+
+
+
+</body>
+
+
+
+
+<address>
+<section id="contact">
+ <h2>Where to find me?</h2>
+ <p>
+   For now, I am living in Barcelona, Spain.
+   It might change by the time you read this section.
+ </p>
+ <p>Phone: <a href="tel:+34632885303">+34 63 28 853 03</a></p>
+ <p>Email: <a href="mailto:manon.cauffiez@gmail.com">Contact me by email</a></p>
+</address>
+
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
